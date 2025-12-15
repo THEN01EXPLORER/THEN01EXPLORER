@@ -1,4 +1,4 @@
-### Hi there, I'm Krishnav! 👋
+### Hi there, I'm Krishnav Mahajan! 👋
 
 I am a **Backend & AI Infrastructure Engineer** focused on building high-performance systems for DeFi and Autonomous Agents.
 
