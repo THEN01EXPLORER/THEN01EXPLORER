@@ -10,9 +10,9 @@ I am a **Backend & AI Infrastructure Engineer** focused on building high-perform
 | **AI / ML** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-Architecture-blue) ![VectorDB](https://img.shields.io/badge/VectorDB-FAISS-green) |
 
 #### 🚀 Featured Engineering
-* **[ChainCompass](https://github.com/THEN01EXPLORER/chain-compass-backend):** Async DeFi route optimization engine handling high-concurrency requests.
-* **[Auralis](https://github.com/THEN01EXPLORER/auralis-security):** Static analysis engine for detecting Solidity smart contract vulnerabilities.
-* **[RAG Concierge](https://github.com/THEN01EXPLORER/rag-concierge):** Privacy-first document intelligence system using local embeddings.
+* **[ChainCompass](https://github.com/THEN01EXPLORER/ChainCompass-AI):** Async DeFi route optimization engine handling high-concurrency requests.
+* **[Auralis](https://github.com/THEN01EXPLORER/Auralis):** Static analysis engine for detecting Solidity smart contract vulnerabilities.
+* **[RAG Concierge](https://github.com/THEN01EXPLORER/personal-rag-agent):** Privacy-first document intelligence system using local embeddings.
 
 ---
-[LinkedIn](https://www.linkedin.com/in/krishnav-mahajan-43b290329) • [Email](mailto:krisnhav5555@gmail.com)
+[📄 **View Resume**](./Resume.pdf) • [LinkedIn](https://www.linkedin.com/in/krishnav-mahajan-43b290329) • [Email](mailto:krisnhav5555@gmail.com)
