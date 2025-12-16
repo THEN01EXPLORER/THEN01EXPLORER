@@ -16,3 +16,4 @@ I am a **Backend & AI Infrastructure Engineer** focused on building high-perform
 
 ---
 [📄 **View Resume**](./Resume.pdf) • [LinkedIn](https://www.linkedin.com/in/krishnav-mahajan-43b290329) • [Email](mailto:krisnhav5555@gmail.com)
+![Header Image](./header.jpg)
