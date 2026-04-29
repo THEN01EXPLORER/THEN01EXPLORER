@@ -57,7 +57,7 @@ I actively test my infrastructure and model-tuning capabilities in global AI are
 - 🧠 **Google DeepMind - Vibe Code with Gemini 3 Pro:** Building complex agent workflows directly in AI Studio.
 - 📜 **Vesuvius Challenge (Ink & Surface Detection):** Pushing the limits of Computer Vision to virtually unwrap and decode ancient, ash-covered scrolls.
 - 🧮 **AI Mathematical Olympiad:** Architecting LLM reasoning pipelines to solve international-level competitive mathematics.
-- 🤖 **Agents Intensive Capstone:** Developing real-world, execution-focused autonomous agents.
+- 🤖 **Agents Intensive Capstone:** Developing real-world, execution-focused autonomous agents. 
 
 ---
 
@@ -76,9 +76,9 @@ I actively test my infrastructure and model-tuning capabilities in global AI are
 To architect deep systems, you must speak the language of algorithmic efficiency fluently. My foundational stats driving toward the 2028 Knight/Master tier:
 
 - **Total Arsenal:** 246+ Problems Conquered across LeetCode, CodeForces, and HackerRank.
-- **DSA Breakdown:** 100 Easy | 93 Medium | 33 Hard.
-- **Peak Ratings:** LeetCode Max 1466 | CodeForces 371 (Newbie).
-- **Core Focus Matrices:** Arrays (132), Math (60), HashMaps/Sets (47), and Dynamic Programming.
+- **DSA Breakdown:** 100 Easy | 93 Medium | 33 Hard. 
+- **Peak Ratings:** LeetCode Max 1466 | CodeForces 371 (Newbie). 
+- **Core Focus Matrices:** Arrays (132), Math (60), HashMaps/Sets (47), and Dynamic Programming. 
 
 ---
 
@@ -128,8 +128,8 @@ To architect deep systems, you must speak the language of algorithmic efficiency
 Open to discussing Rust engine architecture, HFT pipeline optimization, and scaling Full-Stack AI systems.
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/krishnav-mahajan-43b290329"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/your-profile"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a> 
+  <a href="https://www.linkedin.com/in/krishnav-mahajan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/KrishnavMa70137"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a> 
   <a href="mailto:krisnhav5555@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
