@@ -95,6 +95,8 @@ To architect deep systems, you must speak the language of algorithmic efficiency
 
 ### 🐍 Code Contribution Dynamics
 
+*Scaling open-source impact. Currently tracking 335+ contributions in the last year, with 175+ committed in 2025.*
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/main/assets/github-contribution-grid-snake-dark.svg">
